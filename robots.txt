@@ -1,0 +1,8 @@
+# robots.txt for http://www.techvijyo.com/
+
+
+User-agent: *
+Disallow: /images/
+Disallow: /js/
+Disallow: /css/
+Disallow: /thankufeedback.html
